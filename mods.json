@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Better Expansion",
+      "versionUrl": "https://raw.githubusercontent.com/InLiothixi/zlauncher_modDir/main/Better%20Expansion/version.txt"
+    },
+    {
+      "name": "DLC Community",
+      "versionUrl": "https://raw.githubusercontent.com/InLiothixi/zlauncher_modDir/main/DLC%20Community/version.txt"
+    },
+    {
+      "name": "Delturbia",
+      "versionUrl": "https://raw.githubusercontent.com/InLiothixi/zlauncher_modDir/main/Delturbia/version.txt"
+    }
+  ]
+}
